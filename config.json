@@ -1,10 +1,10 @@
 {
   "geoIPFY":{
-    "token": "at_T98QqC9AvYgtDdVGIQQuHkc3sD3RM",
+    "token": "",
     "url": "https://geo.ipify.org/api/v2/country,city"
   },
   "weatherapi": {
-    "token": "075558bc23b847c1be6180125220106",
+    "token": "",
     "url": "http://api.weatherapi.com/v1/current.json"
   }
 }
